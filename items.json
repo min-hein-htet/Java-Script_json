@@ -1,0 +1,18 @@
+
+{
+"items":
+    [
+    {"id":1,"name":"latte","category":"coffee","price":3000},
+    {"id":2,"name":"expresso","category":"coffee","price":3000},
+    {"id":3,"name":"americano","category":"coffee","price":3000},
+    {"id":4,"name":"cappuccino","category":"coffee","price":3000},
+    {"id":5,"name":"apple","category":"juice","price":3000},
+    {"id":6,"name":"orange","category":"juice","price":3000},
+    {"id":7,"name":"mango","category":"juice","price":3000},
+    {"id":8,"name":"pmg","category":"water","price":3000},
+    {"id":9,"name":"alpine","category":"water","price":3000},
+    {"id":10,"name":"coke","category":"soda","price":3000},
+    {"id":11,"name":"pepsi","category":"soda","price":3000},
+    {"id":12,"name":"sprite","category":"soda","price":3000}
+   ]
+}
